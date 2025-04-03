@@ -38,7 +38,7 @@ function App() {
   
   return (
     <>
-      <h1 className='heading'>Aeros.Ai</h1>
+      <h1 className='heading'>Jan.Ai</h1>
       <div className='chatbot_container'>
         <div className='chatbot_response_container'>
           {
